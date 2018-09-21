@@ -451,5 +451,28 @@
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td><a href="https://machinelearningmastery.com/category/deep-learning/">Deep Learning</a></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table><h2 id="AWS">13. AWS</h2>
+<table>
+<thead>
+<tr>
+<th>Link</th>
+<th>Note</th>
+<th>File</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/">How To Develop and Evaluate Large Deep Learning Models with Keras on Amazon Web Services</a></td>
+<td></td>
+<td></td>
+</tr>
+
+
 </tbody>
 </table>
